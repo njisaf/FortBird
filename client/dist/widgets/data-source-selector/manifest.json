@@ -1,0 +1,22 @@
+{
+  "name": "data-source-selector",
+  "label": "Data Source Selector",
+  "type": "widget",
+  "version": "1.16.0",
+  "exbVersion": "1.16.0",
+  "author": "MyTeam",
+  "description": "Custom widget providing single-selection file-upload functionality built on jimu-ui's data-source-selector.",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {
+    "hasConfig": false,
+    "hasSettingPage": false
+  },
+  "translatedLocales": [
+    "en"
+  ],
+  "defaultSize": {
+    "width": 800,
+    "height": 500
+  }
+}

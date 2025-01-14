@@ -67,5 +67,3 @@ class Widget extends React.PureComponent<Props, State> {
     )
   }
 }
-
-export default Widget

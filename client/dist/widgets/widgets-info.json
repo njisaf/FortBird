@@ -10058,5 +10058,66 @@
     "icon": "widgets/common/feature-report/icon.svg",
     "order": 210,
     "group": 2
+  },
+  {
+    "name": "data-source-selector",
+    "manifest": {
+      "name": "data-source-selector",
+      "label": "Data Source Selector",
+      "type": "widget",
+      "version": "1.16.0",
+      "exbVersion": "1.16.0",
+      "author": "MyTeam",
+      "description": "Custom widget providing single-selection file-upload functionality built on jimu-ui's data-source-selector.",
+      "copyright": "",
+      "license": "http://www.apache.org/licenses/LICENSE-2.0",
+      "properties": {
+        "hasConfig": false,
+        "hasSettingPage": false
+      },
+      "translatedLocales": [
+        "en"
+      ],
+      "defaultSize": {
+        "width": 800,
+        "height": 500
+      }
+    },
+    "i18nLabel": {},
+    "i18nDescription": {},
+    "uri": "widgets/data-source-selector/",
+    "icon": "widgets/data-source-selector/icon.png",
+    "order": 700,
+    "group": 7
+  },
+  {
+    "name": "simple",
+    "manifest": {
+      "name": "simple",
+      "label": "Simple",
+      "type": "widget",
+      "version": "1.16.0",
+      "exbVersion": "1.16.0",
+      "author": "Esri R&D Center Beijing",
+      "description": "This is a barebones, simple widget. It includes an example of how to use the config file, and it includes a placeholder SVG icon. It intentionally does not include the following so you can use this to start from scratch: i18n translations, a Settings panel, unit tests. See the documentation for more information on how to implement these features.",
+      "copyright": "",
+      "license": "http://www.apache.org/licenses/LICENSE-2.0",
+      "properties": {
+        "hasSettingPage": false
+      },
+      "translatedLocales": [
+        "en"
+      ],
+      "defaultSize": {
+        "width": 800,
+        "height": 500
+      }
+    },
+    "i18nLabel": {},
+    "i18nDescription": {},
+    "uri": "widgets/simple/",
+    "icon": "widgets/simple/icon.svg",
+    "order": 700,
+    "group": 7
   }
 ]
