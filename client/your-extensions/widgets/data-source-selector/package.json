@@ -1,0 +1,17 @@
+{
+  "name": "data-source-selector",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "jimu-core": "^1.16.0",
+    "jimu-ui": "^1.16.0",
+    "jimu-for-builder": "^1.16.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^29.5.11",
+    "@types/node": "^20.10.6",
+    "@types/react": "^18.2.46",
+    "@types/react-dom": "^18.2.18",
+    "typescript": "^5.3.3"
+  }
+}
