@@ -14,7 +14,7 @@
     "useDataSourcesEnabled": true,
     "supportDataAction": true
   },
-  "settingPanelPath": "./setting/setting",
+  "settingPanelPath": "./src/setting/setting",
   "translatedLocales": [
     "en"
   ],
